@@ -1,6 +1,6 @@
 # Nego
 1. 목표  
-
+중고나라
 
 ## table
 <img width="789" height="470" alt="image" src="https://github.com/user-attachments/assets/33378f98-29ce-4edd-bfd6-d1f7867314ca" />
